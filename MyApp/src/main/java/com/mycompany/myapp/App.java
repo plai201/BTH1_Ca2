@@ -33,6 +33,8 @@ public class App extends Application {
 
     public static void main(String[] args) {
         launch();
+        int a=10;
+        if(a>0) a++;
     }
 
 }
